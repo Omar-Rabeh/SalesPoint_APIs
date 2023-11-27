@@ -1,0 +1,12 @@
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\bin\Debug\net6.0\Sales_Point.Core.deps.json
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\bin\Debug\net6.0\Sales_Point.Core.dll
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\bin\Debug\net6.0\Sales_Point.Core.pdb
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\Sales_Point.Core.csproj.AssemblyReference.cache
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\Sales_Point.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\Sales_Point.Core.AssemblyInfoInputs.cache
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\Sales_Point.Core.AssemblyInfo.cs
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\Sales_Point.Core.csproj.CoreCompileInputs.cache
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\Sales_Point.Core.dll
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\refint\Sales_Point.Core.dll
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\Sales_Point.Core.pdb
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Core\obj\Debug\net6.0\ref\Sales_Point.Core.dll

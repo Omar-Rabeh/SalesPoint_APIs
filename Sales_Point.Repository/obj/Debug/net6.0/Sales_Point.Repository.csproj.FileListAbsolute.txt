@@ -1,0 +1,5 @@
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Repository\obj\Debug\net6.0\Sales_Point.Repository.csproj.AssemblyReference.cache
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Repository\obj\Debug\net6.0\Sales_Point.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Repository\obj\Debug\net6.0\Sales_Point.Repository.AssemblyInfoInputs.cache
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Repository\obj\Debug\net6.0\Sales_Point.Repository.AssemblyInfo.cs
+D:\Work\Personaly\New folder\SalesPoint\Sales_Point.Repository\obj\Debug\net6.0\Sales_Point.Repository.csproj.CoreCompileInputs.cache
